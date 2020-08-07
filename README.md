@@ -13,8 +13,6 @@
 
 <!-- <img align="left" alt="Rohan Ashik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohanashik&show_icons=true&hide_border=true" /> -->
 
-<br />
-
 
 ### Connect with me:
 
