@@ -9,6 +9,13 @@
 - 📫 How to reach me: t.me/rohanashik
 - ⚡  Fun fact: I love caligraphy
 
+
+
+<img align="left" alt="Rohan Ashik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohanashik&show_icons=true&hide_border=true" />
+
+<br />
+
+
 ### Connect with me:
 
 
@@ -19,11 +26,6 @@
 
 <br />
 
----
-
-<br />
-
-<img align="left" alt="Rohan Ashik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohanashik&show_icons=true&hide_border=true" />
 
 [website]: https://rohanashik.com
 [twitter]: https://twitter.com/Rohanashik
